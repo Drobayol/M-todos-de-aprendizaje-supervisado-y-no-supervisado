@@ -1,0 +1,7 @@
+Fecha,Hora,Num_Pasajeros,Clima,Tráfico,Puntualidad
+2024-10-01,08:00,150,soleado,alto,1
+2024-10-01,09:00,200,lluvioso,bajo,0
+2024-10-01,10:00,100,nublado,medio,1
+2024-10-01,11:00,120,soleado,alto,1
+2024-10-02,08:00,160,lluvioso,bajo,0
+2024-10-02,09:00,220,soleado,medio,1
